@@ -1,0 +1,42 @@
+{
+    "additionalSessionData": {
+        "isAdditionalDataPartiallyIncomplete": false,
+        "platform": "web",
+        "appID": "localhost",
+        "installationID": "c5753b29-2ab6-4009-b973-cf7887fcffba",
+        "deviceModel": "Windows NT 10.0",
+        "deviceSDKVersion": "9.6.28",
+        "sessionID": "5b6bc36b-1c26-45f3-8656-72423032001f",
+        "userAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/112.0.0.0 Safari\/537.36",
+        "ipAddress": "157.34.207.71"
+    },
+    "ageEstimateGroupEnumInt": 3,
+    "ageEstimateGroupV2EnumInt": 2,
+    "ageV2GroupEnumInt": 2,
+    "callData": {
+        "tid": "CuRDW6jasa39abd27-eb18-11ed-aff8-06643e495d89",
+        "path": "\/liveness-3d",
+        "date": "May 05, 2023 07:44:17 AM",
+        "epochSecond": 1683272657,
+        "requestMethod": "POST"
+    },
+    "documentData": null,
+    "error": false,
+    "faceScanSecurityChecks": {
+        "auditTrailVerificationCheckSucceeded": true,
+        "faceScanLivenessCheckSucceeded": true,
+        "replayCheckSucceeded": true,
+        "sessionTokenCheckSucceeded": true
+    },
+    "faceTecRetryScreen": 0,
+    "ocrResults": null,
+    "retryScreenEnumInt": 0,
+    "scanResultBlob": "AAEAAABTAAAAAAAAAD5wIMC7acwHZVSxvBLwOR2Z3XFFoKKCMYKu9YwuzaLhAIUT0pJc5wh6HGawM8p4QDxBJ6b+sQVdUpc3OuzmLsR5tYc3l+fXZ4WEv8xMV7rQWzll",
+    "serverInfo": {
+        "version": "9.6.0-jws-2023050404",
+        "mode": "Development Only",
+        "notice": "You should only be reading this if you are in server-side code.  Please make sure you do not allow the FaceTec Server to be called from the public internet."
+    },
+    "success": true,
+    "wasProcessed": true
+}
